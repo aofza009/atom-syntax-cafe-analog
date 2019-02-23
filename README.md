@@ -1,5 +1,5 @@
-# cafe-analog-syntax theme
+# "Black Coffee" Cafe Analog Color Scheme
 
-A short description of your theme.
+Atom syntax theme inspired by the official design guidelines for the student-run Cafe Analog @ The IT-University of Copenhagen.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![screenshot](cafe_analog_color_scheme.png)
