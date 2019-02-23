@@ -1,7 +1,7 @@
 {
   "name": "cafe-analog-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom syntax theme inspired by the official design guidelines for the student-run Cafe Analog @ The IT-University of Copenhagen.",
   "keywords": [
     "syntax",
