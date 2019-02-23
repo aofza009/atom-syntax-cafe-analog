@@ -2,7 +2,7 @@
   "name": "cafe-analog-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Atom syntax theme inspired by the official design guidelines for the student-run Cafe Analog @ The IT-University of Copenhagen.",
   "keywords": [
     "syntax",
     "theme",
@@ -14,7 +14,7 @@
     "black",
     "coffee"
   ],
-  "repository": "https://github.com/atom/cafe-analog-syntax",
+  "repository": "https://github.com/zanderhavgaard/atom-syntax-cafe-analog",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
